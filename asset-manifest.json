@@ -1,7 +1,7 @@
 {
-  "main.css": "/starwars-app/static/css/main.3ae37b0a.chunk.css",
-  "main.js": "/starwars-app/static/js/main.17f0ebde.chunk.js",
-  "main.js.map": "/starwars-app/static/js/main.17f0ebde.chunk.js.map",
+  "main.css": "/starwars-app/static/css/main.bff33ffc.chunk.css",
+  "main.js": "/starwars-app/static/js/main.777e1ca6.chunk.js",
+  "main.js.map": "/starwars-app/static/js/main.777e1ca6.chunk.js.map",
   "static/css/1.98991a9c.chunk.css": "/starwars-app/static/css/1.98991a9c.chunk.css",
   "static/js/1.73242365.chunk.js": "/starwars-app/static/js/1.73242365.chunk.js",
   "static/js/1.73242365.chunk.js.map": "/starwars-app/static/js/1.73242365.chunk.js.map",
@@ -9,8 +9,8 @@
   "runtime~main.js.map": "/starwars-app/static/js/runtime~main.90f48d1f.js.map",
   "static/css/1.98991a9c.chunk.css.map": "/starwars-app/static/css/1.98991a9c.chunk.css.map",
   "static/media/index.css": "/starwars-app/static/media/universe-2218012_1920.56b08f05.jpg",
-  "static/css/main.3ae37b0a.chunk.css.map": "/starwars-app/static/css/main.3ae37b0a.chunk.css.map",
+  "static/css/main.bff33ffc.chunk.css.map": "/starwars-app/static/css/main.bff33ffc.chunk.css.map",
   "index.html": "/starwars-app/index.html",
-  "precache-manifest.1eb1ace987938b1862446fcc5f3b9599.js": "/starwars-app/precache-manifest.1eb1ace987938b1862446fcc5f3b9599.js",
+  "precache-manifest.fdba6b0ea22f911a31fe15faccdecbcb.js": "/starwars-app/precache-manifest.fdba6b0ea22f911a31fe15faccdecbcb.js",
   "service-worker.js": "/starwars-app/service-worker.js"
 }
